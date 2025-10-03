@@ -76,11 +76,3 @@ function runGame(dets) {
 startAgain.addEventListener("click", newGame);
 
 document.querySelector("#pbtm").addEventListener("click", runGame);
-
-/* update this program
-
-you have to add start game button then game should start 
-and restart button also 
-add more functionality
-         done
-*/
