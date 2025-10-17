@@ -70,8 +70,8 @@
       #pbtm > h2 {
         font-size: 2.5rem;
         background-color: blue;
-        color: black;
-        padding: 3px 15px;
+        color: rgb(234, 234, 234);
+        padding: 10px 25px;
         border-radius: 34px;
       }
       #pbtm .bubble {
